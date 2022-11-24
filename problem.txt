@@ -1,6 +1,6 @@
 1 - definire le variabili per l'assegnazione dei dati inseriti dall'utente
-2 - chedi all'utente il suo nome salvandolo in una variabile
-3 - chiedi all'utente il suo cognome salvandolo in una variabile
-4 - chiedi all'utente il suo colore preferito salvandolo in una variabile
-5 - definire una variabile per concatenare: nome+cognome+colore preferito+21
+2 - chedi all'utente il suo nome salvandolo nella variabile precedentemente definita
+3 - chiedi all'utente il suo cognome salvandolo nella variabile precedentemente definita
+4 - chiedi all'utente il suo colore preferito salvandolo nella variabile precedentemente definita
+5 - definire una variabile e assegnare ad essa un valore pari al concatenamento di: nome+cognome+colore preferito+21
 6 - scrivi sulla pagina il contenuto di quest'ultima variabile
